@@ -1,0 +1,39 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor & IDE Directories/Files
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Environment & Secrets
+.env
+*.env.local
+*.env.*.local
+
+# Database backups, dumps, and logs
+*.log
+*.dump
+*.backup
+*.bak
+*.sql.dump
+
+# Temporary & Cache Directories
+tmp/
+temp/
+scratch/
